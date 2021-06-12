@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/slothonsteroidd/monsters-rolodex/static/css/main.e6513c95.chunk.css",
+    "main.js": "/slothonsteroidd/monsters-rolodex/static/js/main.bd01caa8.chunk.js",
+    "main.js.map": "/slothonsteroidd/monsters-rolodex/static/js/main.bd01caa8.chunk.js.map",
+    "runtime-main.js": "/slothonsteroidd/monsters-rolodex/static/js/runtime-main.3c32f313.js",
+    "runtime-main.js.map": "/slothonsteroidd/monsters-rolodex/static/js/runtime-main.3c32f313.js.map",
+    "static/js/2.cbec2654.chunk.js": "/slothonsteroidd/monsters-rolodex/static/js/2.cbec2654.chunk.js",
+    "static/js/2.cbec2654.chunk.js.map": "/slothonsteroidd/monsters-rolodex/static/js/2.cbec2654.chunk.js.map",
+    "static/js/3.1e7a6fb3.chunk.js": "/slothonsteroidd/monsters-rolodex/static/js/3.1e7a6fb3.chunk.js",
+    "static/js/3.1e7a6fb3.chunk.js.map": "/slothonsteroidd/monsters-rolodex/static/js/3.1e7a6fb3.chunk.js.map",
+    "index.html": "/slothonsteroidd/monsters-rolodex/index.html",
+    "static/css/main.e6513c95.chunk.css.map": "/slothonsteroidd/monsters-rolodex/static/css/main.e6513c95.chunk.css.map",
+    "static/js/2.cbec2654.chunk.js.LICENSE.txt": "/slothonsteroidd/monsters-rolodex/static/js/2.cbec2654.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c32f313.js",
+    "static/js/2.cbec2654.chunk.js",
+    "static/css/main.e6513c95.chunk.css",
+    "static/js/main.bd01caa8.chunk.js"
+  ]
+}
